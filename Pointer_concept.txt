@@ -1,0 +1,8 @@
+Concept of pointers
+Why pointer
+decleration
+initialazation
+dereferencing 
+dynamaic allocation
+
+*
